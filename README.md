@@ -1,3 +1,12 @@
+## Fork Note
+This fork is just a vue-material 1.0.0-beta-15 but fixes "bad-input" issue.
+
+Import to your project using Yarn
+
+```
+yarn add https://github.com/CAT6e/vue-material
+```
+
 <p align="center">
   <a href="https://vuematerial.io/" target="_blank">
     <img width="150" src="https://vuematerial.io/assets/logo-color.png">
